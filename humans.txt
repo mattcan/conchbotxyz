@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Matthew -- Developer -- @mattcan
+
+# THANKS
+
+    Kelly
+    NLD
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, Normalize.css, Shell
